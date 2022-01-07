@@ -1,4 +1,5 @@
-# Python-Mini-Projects
+# Python-Mini-Project
+
 
 A simple basic quiz making, where everyone can understand the code.
 
